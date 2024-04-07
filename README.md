@@ -9,3 +9,7 @@
 **Zadanie 3** Kotlin
 
 ✅ 3.0 wymaganie 1 [link](https://github.com/Strus01/e-biznes-2024/tree/39c43a5acb0d03012287788583d2dbab72c40c20/zadanie3)
+
+**Zadanie 4** GO
+
+✅ 3.0 wymaganie 1 [link](https://github.com/Strus01/e-biznes-2024/tree/0016410ff0f925720e7fb2025c193d236d76363d/zadanie4)
