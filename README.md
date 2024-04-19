@@ -17,3 +17,7 @@
 **Zadanie 5** Frontend
 
 ✅ 3.0 wymaganie 1 [link](https://github.com/Strus01/e-biznes-2024/tree/72881724a2be97eda9fb5abd2ef77106678406ab/zadanie5)
+
+**Zadanie 6** Testy
+
+✅ 3.0 wymaganie 1 [link](https://github.com/Strus01/e-biznes-2024/tree/ee7b9e44d4476d46fc4433155a444eff06a8763d/zadanie6)
