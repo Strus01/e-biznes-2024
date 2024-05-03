@@ -21,3 +21,7 @@
 **Zadanie 6** Testy
 
 ✅ 3.0 wymaganie 1 [link](https://github.com/Strus01/e-biznes-2024/tree/ee7b9e44d4476d46fc4433155a444eff06a8763d/zadanie6)
+
+**Zadanie 7** Sonar
+
+✅ 3.0 wymaganie 1 [link](https://github.com/Strus01/e-biznes-2024/tree/5a666533e3f5a496affd985c678e1e9cb626f57f/zadanie7)
