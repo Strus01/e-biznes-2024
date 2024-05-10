@@ -25,3 +25,7 @@
 **Zadanie 7** Sonar
 
 ✅ 3.0 wymaganie 1 [link](https://github.com/Strus01/e-biznes-2024/tree/5a666533e3f5a496affd985c678e1e9cb626f57f/zadanie7)
+
+**Zadanie 8** OAuth2
+
+✅ 3.0 wymaganie 1 [link](https://github.com/Strus01/e-biznes-2024/tree/57f6ee7622ea683516fba1f01f13ac4d3cb14a41/zadanie8)
