@@ -29,3 +29,7 @@
 **Zadanie 8** OAuth2
 
 ✅ 3.0 wymaganie 1 [link](https://github.com/Strus01/e-biznes-2024/tree/57f6ee7622ea683516fba1f01f13ac4d3cb14a41/zadanie8)
+
+**Zadanie 9** ChatGPT bot
+
+✅ 3.0 wymaganie 1 [link](https://github.com/Strus01/e-biznes-2024/tree/639c4b3ca1e948bbc5f69f69fe2ed61da135049f/zadanie9)
