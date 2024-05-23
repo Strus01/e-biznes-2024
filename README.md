@@ -33,3 +33,7 @@
 **Zadanie 9** ChatGPT bot
 
 ✅ 3.0 wymaganie 1 [link](https://github.com/Strus01/e-biznes-2024/tree/639c4b3ca1e948bbc5f69f69fe2ed61da135049f/zadanie9)
+
+**Zadanie 10** Zadanie 10 Chmura/CI
+
+✅ 3.0 wymaganie 1 [link](https://github.com/Strus01/e-biznes-2024/tree/236715f35793bee78d0343c387a2173a43d798b5/zadanie10)
